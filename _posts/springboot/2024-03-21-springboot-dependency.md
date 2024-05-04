@@ -13,7 +13,7 @@ mermaid: true
 
 ## SpringBoot 의존성 추천
 
-SpringBoot를 사용하여 서버개발을 시작할때 유용한 의존성(Dependency) 정리
+SpringBoot를 사용하여 서버개발을 시작할때 유용한 의존성(Dependency) 정리 문서
 
 ---
 
