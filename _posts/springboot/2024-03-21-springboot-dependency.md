@@ -3,7 +3,7 @@ title: SpringBoot 의존성 추천
 date: 2024-03-21 12:00:00 +0000
 categories: [SpringBoot]
 tags: [SpringBoot]
-author: Ireukalla
+author: Sahdaijin
 mermaid: true
 ---
 

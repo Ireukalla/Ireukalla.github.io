@@ -3,7 +3,7 @@ title: Mariadb setting in docker
 date: 2024-03-15 12:00:00 +0000
 categories: [Docker, Mariadb]
 tags: [Docker, Mariadb]
-author: Ireukalla
+author: Sahdaijin
 mermaid: true
 ---
 
